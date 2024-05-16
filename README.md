@@ -2,6 +2,10 @@
 
 This is a coursework project from Harvard University`s CS50G.
 
+<a href="https://youtu.be/FAogyKOd4yQ">
+    <img alt="Flaticon" title="Flaticon" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="30">
+</a>
+
 # Implemented Features:
 
 Time Bonus: Matching adds 1 second per tile matched to the timer, rewarding skilled players with extended playtime.
